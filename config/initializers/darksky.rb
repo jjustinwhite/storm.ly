@@ -1,0 +1,1 @@
+$darksky = Darksky::API.new(ENV["DARKSKY_API_KEY"])
